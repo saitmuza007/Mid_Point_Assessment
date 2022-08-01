@@ -1,3 +1,19 @@
+# Mid_Point_Assessment
+
+# Home Screen (inital routing /resume)
+
+![image](https://user-images.githubusercontent.com/55350436/182116668-c76ffcb8-d376-48e5-bef9-92679ea094b9.png)
+
+# Update Screen( Only Address, Phone ,Email ) Other constaints are disabled
+
+![image](https://user-images.githubusercontent.com/55350436/182116922-d4849886-fe8e-45d0-b450-bee4b5872f12.png)
+
+# Add Details 
+
+![image](https://user-images.githubusercontent.com/55350436/182117395-ed47ffab-ba90-4796-9ad6-bd1565b3e182.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
